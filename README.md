@@ -1,17 +1,32 @@
 # 🌿 Plant Go. Financial Performance Analysis Dashboard
 
 ---
+## Table of Contents
 
-### Businesss Problem:
-- **"YoY growth declined by -3.7%, indicating measurable performance pressure that required structured investigation."**
+- [Business Problem](#business-problem)
+- [Business Objective](#business-objective)
+- [Challenges](#challenges)
+- [Tools Used](#used-tools)
+- [Analysis Process](#the-whole-analysis-process)
+  - [Planning](#planningask)
+  - [Data Cleaning & Modeling](#data-cleaning--data-modeling)
+  - [Data Model](#data-model)
+- [Measure Design](#measure-design)
+- [Dashboard Overview](#dashboard-overview)
+  - [1. Performance Overview](#1--performance-overview)
+  - [2. Core Metrics Analysis](#2--core-metrics-analysis)
+- [Conclusions](#conclusions-and-strategic-value)
+- [Data Source](#data-source)
+- [Author](#author)
 
 ---
 
-## Business Objective:
+
+## Business Objective & Problem:
 This project was built to perform a historical financial analysis for Plant Go. in order to understand business performance across time, products, product types, and countries.
 
 The main goal was to extract and evaluate the following:
-
+- **"YoY growth declined by -3.7%, indicating measurable performance pressure that required structured investigation."**
 - Core financial metrics such as revenue, gross profit, gross margin %, quantity, and YoY growth
 - Historical data trends in sales and profitability
 - Dynamic comparisons between current and prior-year performance
@@ -185,7 +200,7 @@ financial
 ## Conclusions and Strategic Value:
 
 
-Plant Co. recorded a YoY decline of -3.8%, with Q3 representing the weakest 
+Plant Go. recorded a YoY decline of -3.8%, with Q3 representing the weakest 
 period and Q2 and Q4 delivering the strongest results.
 
 China led gross profit contribution at $1.5M. Revenue across top products 
